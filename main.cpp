@@ -11,7 +11,7 @@ private:
 
 public:
     // Constructor
-
+    string chicken;
 
     // Getter Methods
 
